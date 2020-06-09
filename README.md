@@ -1,4 +1,4 @@
-# audio-to-text-
+# audio-to-text-(for Microsoft Windows 2020)
 STREAMING AUDIO TO TEXT<br>
 download and install<br>
 VACSetup.exe<br>
