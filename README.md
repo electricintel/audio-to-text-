@@ -1,7 +1,8 @@
 # audio-to-text-(for Microsoft Windows 2020)
 STREAMING AUDIO TO TEXT (TRANSCRIBES MEDIA / CLOSED CAPTION CREATION) <br>
 <BR>
-** Found https://www.downsub.com on the internet. Works great for sites that already have cc or closed caption built in
+* Found https://www.downsub.com on the internet. Works great for sites that already have cc or closed caption built in
+++ Youtube has a copy and pasteable transcription built into the 3 dots under the videos on the right.
 <BR>
 
 download and install<br>
