@@ -2,7 +2,7 @@
 STREAMING AUDIO TO TEXT<br>
 download and install<br>
 VACSetup.exe<br>
-set up VAC as the default playback device (other speakers will be muted until changed back)<br>
+set up VAC as the default playback and recording devices (other speakers will be muted until changed back)<br>
 go to <br>
 https://www.google.com/intl/en/chrome/demos/speech.html<br>
 turn on the microphone button<br>
